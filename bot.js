@@ -402,7 +402,7 @@ ${chalk.blue.italic('ℹ️ AFIYA MWOL Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.120363023462453655@g.us, '*AFIYA MWOL ERROR DECTECTOR❗⚙️❗*' +
+                                await conn.sendMessage(conn.120363023462453655@g.us, '*AFIYA MWOL ERROR DECTECTOR❗⚙️❗*' +
                                     '\n\n*🛑 ' + error + '*\n\n```*join with +91 \n https://chat.whatsapp.com/JdQQjIOcQJ3G8rRy5ECtr4  ``` ' 
                                     , MessageType.text);
                             }
